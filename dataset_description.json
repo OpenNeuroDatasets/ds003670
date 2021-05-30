@@ -1,0 +1,10 @@
+{
+  "Name": "GX Dataset-tES CTT Vigilance Attention ",
+  "ReferencesAndLinks": [
+    "Publication title:Dataset of Concurrent EEG, ECG, and Behavior with Multiple Doses of transcranial Electrical Stimulation",
+    "DataSet Link: https://zenodo.org/record/4456079#.YKyxAbVKiF4"
+  ],
+  "License": "CC0",
+  "Authors": ["Nigel Gebodh"],
+  "BIDSVersion": "1.1.1"
+}

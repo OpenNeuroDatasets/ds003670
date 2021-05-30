@@ -1,0 +1,19 @@
+{
+  "InstitutionAddress": "Center for Discovery and Innovation, 85 St Nicholas Terrace, New York, NY 10031",
+  "InstitutionName": "The City College of New York, CUNY",
+  "InstitutionalDepartmentName": "Department of Biomedical Engineering",
+  "PowerLineFrequency": 60,
+  "ManufacturersModelName": "ANT Neuro-eego Wavegaurd Cap, eego Amplifier, 32 EEG chans + 3 external(ECG/EOG/RESP), Ref Input Range: 150-1000 mV pp",
+  "TaskName": "GXtESCTT",
+  "EEGReference": "CPz",
+  "EEGChannelCount": 32,
+  "ECGChannelCount": 1,
+  "EOGChannelCount": 1,
+  "MiscChannelCount": 35,
+  "RecordingType": "continuous",
+  "RecordingDuration": 4223.485,
+  "SamplingFrequency": 2000,
+  "SubjectArtefactDescription": "File: 0505 ;Date, Start,Stop:11/19/19\t6:46:11 PM\t7:56:11 PM;Montages:F30, F0, F5;Stim Amplitude(mA): 1, 1, 0.5;Notes:",
+  "EMGChannelCount": 0,
+  "SoftwareFilters": "n/a"
+}
