@@ -9,5 +9,14 @@
         "Nigel Gebodh"
     ],
     "BIDSVersion": "1.1.1",
-    "Acknowledgements": "Portions of this study were funded by X (formerly Google X), the Moonshot Factory. The funding source had no influence on study conduction or result evaluation. MB is further supported by grants from the National Institutes of Health: R01NS101362, R01NS095123, R01NS112996, R01MH111896, R01MH109289, and (to NG) NIH-G-RISE T32GM136499.\n\nWe would like to thank Yuxin Xu and Michaela Chum for all their technical assistance. \n"
+    "Acknowledgements": "Portions of this study were funded by X (formerly Google X), the Moonshot Factory. The funding source had no influence on study conduction or result evaluation. MB is further supported by grants from the National Institutes of Health: R01NS101362, R01NS095123, R01NS112996, R01MH111896, R01MH109289, and (to NG) NIH-G-RISE T32GM136499.\n\nWe would like to thank Yuxin Xu and Michaela Chum for all their technical assistance. \n",
+    "Funding": [
+        "X (formerly Google X)",
+        "NIH R01NS095123",
+        "NIH R01NS101362",
+        "NIH R01NS112996",
+        "NIH R01MH111896",
+        "NIH R01MH109289",
+        "NIH-G-RISE T32GM136499"
+    ]
 }
