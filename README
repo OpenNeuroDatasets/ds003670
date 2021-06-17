@@ -1,9 +1,9 @@
 **Synopsis**
-This is the GX dataset formatted to comply with [BIDS](https://bids.neuroimaging.io/) standard format. The tES/EEG/CTT/Vigilance experiment contains 19 unique participants (some repeated experiments).
+This is the **GX dataset** formatted to comply with [BIDS](https://bids.neuroimaging.io/) standard format. 
+The tES/EEG/CTT/Vigilance experiment contains 19 unique participants (some repeated experiments).
 Over a 70 min period EEG/ECG/EOG were recorded concurrently with a CTT task
 where participants maintained a ball at the center of the screen
 and were periodically stimulated for 30 secs with combinations of 9 stimulation montages.
-The 
 
 For the **raw data** please see: https://zenodo.org/record/4456079 
 
@@ -16,5 +16,15 @@ We present a dataset combining human-participant high-density electroencephalogr
 
 For more details please see the full data descriptor article.
 
+
+Code used to import and process this dataset can be found here:
+**GitHub** : https://github.com/ngebodh/GX_tES_EEG_Physio_Behavior
+
+For downsampled data please see:
+**Experiment 1** : https://doi.org/10.5281/zenodo.3840615
+**Experiment 2** : https://doi.org/10.5281/zenodo.3840617
+
+
+![https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/dog-puppy-on-garden-royalty-free-image-1586966191.jpg?crop=1.00xw:0.669xh;0,0.190xh&resize=640:*]
 
 - Nigel Gebodh (May 26th, 2021)
