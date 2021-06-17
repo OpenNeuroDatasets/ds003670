@@ -1,8 +1,7 @@
 {
     "Name": "Dataset of Concurrent EEG, ECG, and Behavior with Multiple Doses of transcranial Electrical Stimulation - BIDS",
     "ReferencesAndLinks": [
-        "Publication title:Dataset of Concurrent EEG, ECG, and Behavior with Multiple Doses of transcranial Electrical Stimulation",
-        "DataSet Link: https://zenodo.org/record/4456079#.YKyxAbVKiF4"
+        "Gebodh, Nigel, Esmaeilpour, Zeinab, Datta, Abhishek, & Bikson, Marom. (2020). Dataset of Concurrent EEG, ECG, and Behavior with Multiple Doses of transcranial Electrical Stimulation (Version V2) [Data set]. Zenodo. http://doi.org/10.5281/zenodo.4456079"
     ],
     "License": "CC0",
     "Authors": [
