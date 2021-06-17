@@ -2,8 +2,8 @@
 This is the **GX dataset** formatted to comply with [BIDS](https://bids.neuroimaging.io/) standard format. 
 
 The tES/EEG/CTT/Vigilance experiment contains 19 unique participants (some repeated experiments).
-Over a 70 min period EEG/ECG/EOG were recorded concurrently with a CTT task
-where participants maintained a ball at the center of the screen ([CTT](https://sccn.ucsd.edu/~scott/pdf/COMPTRACK.pdf))
+Over a 70 min period EEG/ECG/EOG were recorded concurrently with a [CTT](https://sccn.ucsd.edu/~scott/pdf/COMPTRACK.pdf)
+where participants maintained a ball at the center of the screen
 and were periodically stimulated (with low-intensity noninvasive brain stimulation) for 30 secs with combinations of 9 stimulation montages.
 
 For the **raw data** please see: https://zenodo.org/record/4456079 
